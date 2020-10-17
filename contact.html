@@ -17,8 +17,8 @@
               <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
               </button>
-              <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav mr-auto">
+              <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
+                <ul class="navbar-nav">
                   <li class="nav-item">
                     <a class="nav-link" href="index.html">About Me<span class="sr-only">(current)</span></a>
                   </li>
@@ -33,8 +33,36 @@
           </nav>
           <!--End of Nav Bar-->
 
+          <main class="container mt-4 mx-4">
+            <div class="row pr-5">
+              <div class="col-sm-8 py-3 border border-light bg-white">
+                <h1>Contact</h1>
+                <hr>
+                <!--Beginning of input forms-->
+                <form>
+                  <div class="form-group">
+                    <label for="nameInput">Name</label>
+                    <input type="text" class="form-control" id="nameInput" placeholder="Name">
+                  </div>
+                  <div class="form-group">
+                    <label for="exampleInputEmail1">Email address</label>
+                    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+                  </div>
+                  <div class="form-group">
+                    <label for="textArea">Message</label>
+                    <textarea class="form-control" id="textArea" rows="2"></textarea>
+                  </div>
+                  <button type="submit" class="btn btn-primary">Submit</button>
+                </form>
 
+              </div>
+            </div>
+          </main>
 
+        <!--sticky footer-->
+        <footer class="card-footer fixed-bottom">
+          <span class="text-muted">Copyright (c) 2020 Doublem1nt Inc.</span>
+        </footer>
 
         <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
