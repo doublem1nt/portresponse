@@ -11,17 +11,17 @@ In IMAGES directory you will find 8x image files.
 
 ## Website Display
 
-[400px viewport Website IMG] https://doublem1nt.github.io/portresponse/Assets/Images/Screenshots/aboutme400px.jpg
-[400px viewport Website IMG] https://doublem1nt.github.io/portresponse/Assets/Images/Screenshots/portfolio400px.jpg
-[400px viewport Website IMG] https://doublem1nt.github.io/portresponse/Assets/Images/Screenshots/contact400px.jpg
+[400px viewport Website IMG] https://doublem1nt.github.io/portresponse/Screenshots/aboutme400px.jpg
+[400px viewport Website IMG] https://doublem1nt.github.io/portresponse/Screenshots/portfolio400px.jpg
+[400px viewport Website IMG] https://doublem1nt.github.io/portresponse/Screenshots/contact400px.jpg
 
-[768px viewport Website IMG] https://doublem1nt.github.io/portresponse/Assets/Images/Screenshots/aboutme768px.jpg
-[768px viewport Website IMG] https://doublem1nt.github.io/portresponse/Assets/Images/Screenshots/portfolio768px.jpg
-[768px viewport Website IMG] https://doublem1nt.github.io/portresponse/Assets/Images/Screenshots/contact768px.jpg
+[768px viewport Website IMG] https://doublem1nt.github.io/portresponse/Screenshots/aboutme768px.jpg
+[768px viewport Website IMG] https://doublem1nt.github.io/portresponse/Screenshots/portfolio768px.jpg
+[768px viewport Website IMG] https://doublem1nt.github.io/portresponse/Screenshots/contact768px.jpg
 
-[992px viewport Website IMG] https://doublem1nt.github.io/portresponse/Assets/Images/Screenshots/aboutme992px.jpg
-[992px viewport Website IMG] https://doublem1nt.github.io/portresponse/Assets/Images/Screenshots/portfolio992px.jpg
-[992px viewport Website IMG] https://doublem1nt.github.io/portresponse/Assets/Images/Screenshots/contact992px.jpg
+[992px viewport Website IMG] https://doublem1nt.github.io/portresponse/Screenshots/aboutme992px.jpg
+[992px viewport Website IMG] https://doublem1nt.github.io/portresponse/Screenshots/portfolio992px.jpg
+[992px viewport Website IMG] https://doublem1nt.github.io/portresponse/Screenshots/contact992px.jpg
 
 ## Contributing
 Jonathan Yee, Junior Developer
