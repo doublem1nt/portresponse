@@ -11,17 +11,17 @@ In IMAGES directory you will find 8x image files.
 
 ## Website Display
 
-![Screenshot](/Screenshots/aboutme400px.jpg "400px view of Index/aboutme")
-![Screenshot](/Screenshots/portfolio400px.jpg "400px view of Portfolio")
-![Screenshot](/Screenshots/contact400px.jpg "400px view of Contact")
+![Screenshot](./Screenshots/aboutme400px.jpg "400px view of Index/aboutme")
+![Screenshot](./Screenshots/portfolio400px.jpg "400px view of Portfolio")
+![Screenshot](./Screenshots/contact400px.jpg "400px view of Contact")
 
-![Screenshot](/Screenshots/aboutme768px.jpg "768px view of Index/aboutme")
-![Screenshot](/Screenshots/portfolio768px.jpg "768px view of Portfolio")
-![Screenshot](/Screenshots/contact768px.jpg "768px view of Contact")
+![Screenshot](./Screenshots/aboutme768px.jpg "768px view of Index/aboutme")
+![Screenshot](./Screenshots/portfolio768px.jpg "768px view of Portfolio")
+![Screenshot](./Screenshots/contact768px.jpg "768px view of Contact")
 
-![Screenshot](/Screenshots/aboutme992px.jpg "992px view of Index/aboutme")
-![Screenshot](/Screenshots/portfolio992px.jpg "992px view of Portfolio")
-![Screenshot](/Screenshots/contact992px.jpg "992px view of Contact")
+![Screenshot](./Screenshots/aboutme992px.jpg "992px view of Index/aboutme")
+![Screenshot](./Screenshots/portfolio992px.jpg "992px view of Portfolio")
+![Screenshot](./Screenshots/contact992px.jpg "992px view of Contact")
 
 ## Contributing
 Jonathan Yee, Junior Developer
